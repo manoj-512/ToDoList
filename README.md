@@ -1,6 +1,6 @@
-#To Do List 
+# To Do List 
 
-##check - https://manoj-512.github.io/ToDoList/
+## check - https://manoj-512.github.io/ToDoList/
 
 This project is a simple and easy-to-use To-Do List app built with basic web technologies like JavaScript, HTML, and CSS. 
 It's a perfect project for beginners looking to practice their skills in web development while learning how to work with the DOM, handle events, and use local storage.
@@ -13,5 +13,5 @@ Delete Tasks: Click the delete button to remove tasks you no longer need.
 Save Your List: The app remembers your tasks using local storage, so even if you refresh or close the page, your list will still be there.
 Smart Display: The task container only shows up when there are tasks in the list and hides itself when the list is empty.
 
-##
+## 
 The To-Do List Project is a beginner-friendly web application designed to help users manage tasks efficiently. It allows you to add, complete, and delete tasks with ease, offering a simple yet functional way to stay organized. 
